@@ -1,0 +1,2 @@
+# bootcamp
+Project for kids
